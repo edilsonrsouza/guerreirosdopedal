@@ -1,6 +1,5 @@
 GUERREIROS DO PEDAL
 ===============
+![gUERREIROS DO PEDAL](guerreirosdopedal.git/imagem/logo-fina-transparente.png){width="300";}
 
-![GP, Guerreiros do Pedal](
-(https://github.com/edilsonrsouza/guerreirosdopedal){width="300";}
 
